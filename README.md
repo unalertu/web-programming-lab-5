@@ -2,14 +2,6 @@
 
 A simple product dashboard made with React and Vite.
 
-## Run
-
-```bash
-cd assignment1
-npm install
-npm run dev
-```
-
 ## Files
 
 All app files are in `assignment1`.
